@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "815762cd-7fee-454c-9a30-dc80cf466633": {
+      "ProjectGuid": "815762cd-7fee-454c-9a30-dc80cf466633",
+      "DisplayName": "BirthdayApp",
+      "ColorIndex": 0
+    },
+    "8aa9ee36-0328-4ae1-95b3-7f7cfc55db96": {
+      "ProjectGuid": "8aa9ee36-0328-4ae1-95b3-7f7cfc55db96",
+      "DisplayName": "BirthDay_WebApi",
+      "ColorIndex": 1
+    },
+    "36ae16bc-f6a9-4e47-a007-ec67cf4f2f1e": {
+      "ProjectGuid": "36ae16bc-f6a9-4e47-a007-ec67cf4f2f1e",
+      "DisplayName": "JQueryWebApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
